@@ -149,7 +149,6 @@ class EmailSender:
     templates_text_table.globals["is_last_group_row"] = is_last_group_row
 
     attachment_encoding = 'UTF-8'
-
     def __init__(self,
                  host:str,
                  port:int,
