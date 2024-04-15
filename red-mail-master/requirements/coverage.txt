@@ -11,3 +11,6 @@ matplotlib
 Pillow
 openpyxl
 css_inline
+
+
+# new coverage to be added here
